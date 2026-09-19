@@ -1,0 +1,258 @@
+# PocketLM Proprietary License
+
+**Copyright © 2026 Aswajith. All Rights Reserved.**
+
+## 1. Ownership
+
+This software, including its source code, application code, design, user interface, documentation, assets, configuration, and associated materials (collectively, the **"Software"**), is the exclusive intellectual property of **Aswajith** unless otherwise stated for individual third-party components.
+
+All rights not expressly granted by this license are reserved by the copyright holder.
+
+---
+
+## 2. Limited Permission
+
+Subject to the terms of this license, the copyright holder grants you a limited, personal, non-exclusive, non-transferable, revocable permission to:
+
+* Download the Software.
+* Install the Software.
+* Run the Software.
+* Use the Software for personal purposes.
+* Use the Software for educational purposes.
+* Evaluate and test the Software.
+* Report bugs and security issues.
+* Suggest improvements or feature requests.
+
+This permission does **not** transfer ownership of the Software or any intellectual-property rights to you.
+
+---
+
+## 3. Strict Restrictions
+
+Without prior written permission from the copyright holder, you **MUST NOT**:
+
+### 3.1 Modify the Software
+
+You may not:
+
+* Modify the source code.
+* Alter, remove, replace, or add functionality to the Software.
+* Create modified versions or derivative works.
+* Patch, alter, decompile, or otherwise modify distributed builds for redistribution.
+* Change the application's name, package identity, branding, or attribution.
+
+### 3.2 Redistribute the Software
+
+You may not:
+
+* Redistribute the source code.
+* Redistribute modified source code.
+* Publish modified builds.
+* Upload modified versions to GitHub, GitLab, Bitbucket, F-Droid, app stores, websites, forums, repositories, or other platforms.
+* Create or distribute unofficial builds.
+* Mirror the Software for public distribution without permission.
+* Bundle the Software into another product for distribution.
+
+### 3.3 Commercial Use
+
+You may not, without written permission:
+
+* Sell the Software.
+* Rent or lease the Software.
+* License the Software to another person or organization.
+* Include the Software in a commercial product.
+* Use the Software as part of a paid service.
+* Monetize modified or redistributed versions.
+* Offer the Software as a hosted or managed service.
+
+### 3.4 Rebranding
+
+You may not:
+
+* Claim the Software as your own.
+* Remove the author's name or copyright notices.
+* Replace the author's attribution.
+* Use the PocketLM name or branding to represent an unauthorized version.
+* Publish the Software under another name while retaining substantial portions of its code or design.
+* Imply that an unauthorized version is officially developed, supported, or endorsed by the copyright holder.
+
+### 3.5 Sublicensing
+
+You may not:
+
+* Sublicense the Software.
+* Grant another person rights that you do not possess.
+* Re-license the Software under another license.
+* Combine the Software with another license in a manner that attempts to override this license.
+
+---
+
+## 4. Source Code
+
+Access to the source code does **not** mean that the source code is open source.
+
+Unless explicitly stated otherwise, the source code is provided for:
+
+* Inspection.
+* Learning.
+* Evaluation.
+* Bug reporting.
+* Development discussion.
+
+No right to modify, redistribute, commercially exploit, sublicense, or create derivative works is granted.
+
+---
+
+## 5. Forks and Derivative Works
+
+Creating a public or private fork of the Software does not grant permission to modify or distribute it.
+
+You may create a temporary local copy for personal evaluation or development purposes, provided that the copy is not distributed and remains subject to this license.
+
+Any derivative work based substantially on the Software requires explicit written permission from the copyright holder.
+
+---
+
+## 6. Third-Party Components
+
+The Software may contain, depend upon, or interact with third-party software, libraries, APIs, frameworks, models, datasets, services, or other materials.
+
+Such third-party components are **not necessarily owned by Aswajith** and remain subject to their respective licenses and terms.
+
+This license does not override or replace the license of any third-party component.
+
+Where a third-party license grants rights that cannot legally be restricted by this license, those rights remain applicable solely to the relevant third-party component.
+
+---
+
+## 7. AI Models
+
+PocketLM may provide functionality for downloading, managing, or using AI models obtained from third-party sources.
+
+AI models may have separate:
+
+* Copyright terms.
+* Model licenses.
+* Usage restrictions.
+* Commercial-use restrictions.
+* Attribution requirements.
+* Distribution requirements.
+
+Users are solely responsible for reviewing and complying with the license and terms applicable to any third-party model they download or use.
+
+This license does not grant permission to redistribute any third-party AI model.
+
+---
+
+## 8. Trademarks and Branding
+
+The names **PocketLM**, **Aswajith**, and associated logos, icons, artwork, branding, and visual identity may be protected by applicable intellectual-property laws.
+
+Nothing in this license grants permission to use such branding for an unauthorized product, derivative work, commercial service, or redistributed version.
+
+---
+
+## 9. Security and Abuse
+
+You must not use the Software to:
+
+* Circumvent security mechanisms.
+* Attack or compromise systems.
+* Distribute malware.
+* Conduct unauthorized access.
+* Abuse third-party services.
+* Violate applicable laws.
+* Circumvent access controls or usage restrictions.
+
+The copyright holder does not authorize unlawful use of the Software.
+
+---
+
+## 10. No Warranty
+
+THE SOFTWARE IS PROVIDED **"AS IS"** AND **"AS AVAILABLE"**, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE:
+
+* WILL BE ERROR-FREE;
+* WILL BE SECURE;
+* WILL BE AVAILABLE AT ALL TIMES;
+* WILL WORK ON EVERY DEVICE;
+* WILL MEET EVERY USER'S REQUIREMENTS; OR
+* WILL OPERATE WITHOUT INTERRUPTION.
+
+---
+
+## 11. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR OTHER DAMAGES ARISING FROM OR RELATED TO THE USE OR INABILITY TO USE THE SOFTWARE.
+
+---
+
+## 12. Termination
+
+Any permission granted under this license automatically terminates if you violate any provision of this license.
+
+Upon termination, you must immediately:
+
+* Stop using unauthorized copies.
+* Stop distributing the Software.
+* Stop distributing derivative works.
+* Remove unauthorized public distributions under your control.
+* Cease any unauthorized commercial use.
+
+Termination does not limit any other rights or remedies available to the copyright holder under applicable law.
+
+---
+
+## 13. Permission Requests
+
+Requests for permissions not granted by this license must be obtained **in writing** from the copyright holder before the relevant activity occurs.
+
+Examples include:
+
+* Commercial use.
+* Modification.
+* Redistribution.
+* Forking for public distribution.
+* Creating derivative products.
+* Rebranding.
+* App-store redistribution.
+* Integration into commercial software.
+* Creating a hosted service.
+
+Permission may be granted or denied at the sole discretion of the copyright holder.
+
+---
+
+## 14. No Implied Rights
+
+No rights are granted by implication, estoppel, or otherwise.
+
+If a right is not explicitly granted by this license, that right is reserved by the copyright holder.
+
+---
+
+## 15. Copyright Notice
+
+The following notice must not be removed from authorized copies of the Software:
+
+**Copyright © 2026 Aswajith. All Rights Reserved.**
+
+---
+
+## 16. Acceptance
+
+By downloading, installing, accessing, or using the Software, you acknowledge that you have read and understood this license and agree to comply with its terms.
+
+If you do not agree to these terms, you must not use, copy, modify, or distribute the Software.
+
+---
+
+<div align="center">
+
+**PocketLM**
+
+**Copyright © 2026 Aswajith. All Rights Reserved.**
+
+</div>
