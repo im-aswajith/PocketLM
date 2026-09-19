@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- AI Brain / Terminal Shell Base -->
+    <path
+        android:fillColor="#FFB800"
+        android:pathData="M38,30 C30,30 25,35 25,43 L25,65 C25,73 30,78 38,78 L70,78 C78,78 83,73 83,65 L83,43 C83,35 78,30 70,30 Z" />
+
+    <!-- Dark Inner Terminal Screen -->
+    <path
+        android:fillColor="#0D1117"
+        android:pathData="M40,36 C34,36 31,39 31,45 L31,63 C31,69 34,72 40,72 L68,72 C74,72 77,69 77,63 L77,45 C77,39 74,36 68,36 Z" />
+
+    <!-- Terminal Command Prompt & Sparkle Nodes (Ollama + HF style) -->
+    <!-- > prompt symbol -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M37,47 L43,54 L37,61" />
+
+    <!-- Blinking Cursor -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFD21E"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M48,61 L54,61" />
+
+    <!-- Neural Sparkle / AI Star -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M66,45 C66,48 68,50 71,50 C68,50 66,52 66,55 C66,52 64,50 61,50 C64,50 66,48 66,45 Z" />
+
+    <!-- Little antenna / ear nodes for llama / friendly robot touch -->
+    <path
+        android:fillColor="#FFD21E"
+        android:pathData="M35,26 C33,26 32,28 33,30 L36,32 L38,30 Z" />
+    <path
+        android:fillColor="#FFD21E"
+        android:pathData="M73,26 C75,26 76,28 75,30 L72,32 L70,30 Z" />
+    <!-- GPU / CPU Microchip node below -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M50,78 L58,78 L56,82 L52,82 Z" />
+</vector>
